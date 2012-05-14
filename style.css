@@ -1,0 +1,134 @@
+﻿body
+{
+    font-family: "微软雅黑" , "宋体" , Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    background-image: url("images/grid.png");
+}
+.container
+{
+    margin: 0 auto;
+    width: 1000px;
+}
+.logo
+{
+    background: url("images/logo.png") no-repeat scroll left center;
+    padding-left: 65px;
+    margin: 20px 0;
+}
+.blog
+{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.main
+{
+    background-color: #ffffff;
+    border: 1px solid #eee;
+    padding: 10px 25px 25px 25px;
+}
+.brainpage
+{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0;
+    color: #333;
+}
+h2
+{
+    font-weight: normal;
+    color: #3B77C3;
+}
+
+.data
+{
+    font-size: 16px;
+    color: #3B77C3;
+}
+hr
+{
+    height: 1px;
+    margin: 20px 0;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
+    border: 0;
+}
+.bar div
+{
+    float: left;
+    width: 33%;
+    height: 4px;
+}
+.yellow
+{
+    background: #F1C416;
+}
+.green
+{
+    background: #93D00D;
+}
+.blue
+{
+    background: #35B1F1;
+}
+h1
+{
+    margin-top: 20px;
+    font-size: 24px;
+    color: #3B77C3;
+    font-weight: normal;
+}
+li
+{
+    margin: 10px;
+}
+.clear
+{
+    clear: both;
+    margin-bottom: 0px;
+}
+.rsi
+{
+    margin-top: 20px;
+}
+a
+{
+    color: black;
+    /*text-decoration: none;*/
+    margin-left: 10px;
+}
+a.button
+{
+    font-size: 15px;
+    background: #3B77C3;
+    color: White;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+p
+{
+    margin-top: 20px;
+    line-height: 25px;
+}
+.soon
+{
+    margin-left: 50px;
+    color: #3B77C3;
+}
+.footer
+{
+    padding: 35px 0 36px;
+}
+
+.right
+{
+    float: right;
+    text-align: right;
+}
+.tree p
+{
+    margin: 10px 0 0 20px;
+}
+
+img{vertical-align:middle; margin-top:-5px; border:none;}
